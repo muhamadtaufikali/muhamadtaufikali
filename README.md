@@ -19,12 +19,7 @@
 [<img align="left" alt="Laravel" width="50px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Node.js" width="50px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="50px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="50px" src="https://cdn.worldvectorlogo.com/logos/oracle-corporation-logo.svg" style="padding-right:10px;" />][webdev]
 
 
-<br />
-<br />
-
----
 [webdev]: https://github.com/muhamadtaufikali
 
